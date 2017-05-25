@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 1 - Group 3
 
-## Project Title
+## CPSC 481 Team Project
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Theme Park Fast-Pass
+* Jeffrey Banawa (10146080), Eric On (30006779), Rey Jr. Italia ()
+* T01 Kody Dillman
 
 ## Project Idea
 
