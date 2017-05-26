@@ -3,12 +3,12 @@
 ## CPSC 481 Team Project
 
 * Theme Park Fast-Pass
-* Jeffrey Banawa (10146080), Eric On (30006779), Rey Jr. Italia ()
+* Jeffrey Banawa (10146080), Eric On (30006779), Rey Jr. Italia (10172830)
 * T01 Kody Dillman
 
 ## Project Idea
 
-![](http://lorempixel.com/1200/300/ "Motivational image")
+![](http://i.f1g.fr/media/figaro/1280x580_crop/2017/03/24/XVMf27099be-08d5-11e7-9e67-f673f4d99eca-805x453.jpg "Disneyland")
 
 _[summary -- e.g. from P1]_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat ex vitae metus dapibus, vel auctor mi tincidunt. Vestibulum vitae rhoncus est. Curabitur molestie nunc in velit lobortis, mollis pellentesque lacus interdum. Aliquam consectetur malesuada dolor quis lacinia. Nullam dictum felis lectus, tincidunt auctor orci efficitur sed. In ac urna at leo pretium varius at id orci. Mauris sed tincidunt turpis, eget malesuada urna. In consectetur, purus et aliquet tincidunt, orci quam eleifend tellus, vel convallis sem odio a nunc. Pellentesque sed facilisis risus, ut rhoncus nibh. Sed ut ipsum condimentum, faucibus velit id, ornare arcu. Suspendisse at velit scelerisque, cursus ante sit amet, porttitor ipsum. Nulla eu suscipit sapien. Cras ullamcorper cursus mi. Proin blandit luctus enim, eu tincidunt libero dapibus eu. Mauris ut finibus turpis. Etiam nisi erat, malesuada ut velit quis, viverra feugiat augue.
 
